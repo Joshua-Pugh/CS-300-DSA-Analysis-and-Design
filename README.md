@@ -13,4 +13,4 @@ When it came to the roadblocks I encountered, I did what I always do which is re
 The work I completed in this course has changed my approach a little when it comes to designing software. It has made me more aware of the need for good solid planning and prep before coding. It has made me more mindful of the need to do your research beforehand to ensure you fully understand what you are designing and why.
 
 # How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
-The work on this project has not changed the way I write programs that are maintainable, readable, and adaptable but rather 
+The work on this project has not changed the way I write programs that are maintainable, readable, and adaptable. It has only further improved my skill set for creating them and helped to make my code more technically sound.
